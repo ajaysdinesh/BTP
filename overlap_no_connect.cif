@@ -1,0 +1,10 @@
+( Electric VLSI Design System, version 9.07 );
+( written on Wed Feb 12, 2020 12:29:46 );
+DS 101 1 100;
+9 testoverlap;
+L CMF;
+ B 330 1705 -990 1622;
+ B 2475 330 -907 1595;
+DF;
+C 101;
+E

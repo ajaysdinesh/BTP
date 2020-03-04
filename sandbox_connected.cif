@@ -1,0 +1,13 @@
+( Electric VLSI Design System, version 9.07 );
+( written on Wed Feb 12, 2020 11:21:12 );
+DS 101 1 1;
+9 sandbox;
+L CMF;
+ B 3 9 -27 14;
+ B 3 9 -27 7;
+ B 3 9 -20 14;
+ B 3 9 -20 7;
+ B 9 3 -24 11;
+DF;
+C 101;
+E
